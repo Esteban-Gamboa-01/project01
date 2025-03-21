@@ -138,13 +138,13 @@ https://docs.google.com/presentation/d/1UEyC9_TqIQ7yGM7ynj81DAxWO0WjNUPE9_qWjV_0
 ## Future Work
 
 This project is scalable to create a API for working among teachers and students at the music school.
-- v1.0.1 &rarr Adding @Valid and modified some methods.
-- v1.1.0 &rarr Adding new variable 'keywords' for getting a search more realist. 
-- v1.2.0 &rarr Adding herence to 'Collection'.
-- v2.0.0 &rarr Creating the frontend.
-- v2.1.0 &rarr Adding security: root-user. Two environments: teacher-students.
-- v2.2.0 &rarr Uploading .pdf to the API.
-- v2.3.0 &rarr Adding method for sending homework.
+- v1.0.1 Adding @Valid and modified some methods.
+- v1.1.0 Adding new variable 'keywords' for getting a search more realist. 
+- v1.2.0 Adding herence to 'Collection'.
+- v2.0.0 Creating the frontend.
+- v2.1.0 Adding security: root-user. Two environments: teacher-students.
+- v2.2.0 Uploading .pdf to the API.
+- v2.3.0 Adding method for sending homework.
 
 ## Team Members
 
